@@ -6,7 +6,7 @@
 
 <body> 
 	<h>PHP Test</h1>
-		<p><b>An update!22/b></p>
+		<p><b>Another update</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	</body> 
